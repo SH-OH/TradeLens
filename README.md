@@ -2,14 +2,10 @@
 
 TradeLens는 BitMEX OpenAPI를 이용해 주문장(Order Book) 데이터와 최근 거래 데이터(Recent Trades)를 실시간으로 시각화하는 간단한 iOS 앱입니다.
 
----
-
 ## 설치 및 실행
 
 1. **TradeLens.xcworkspace - App scheme** 로 실행.
 2. iOS 15 이상(iOS 15.2, 16.0, 18.0 등)에서 테스트 되었습니다.
-
----
 
 ## 주요 기능
 
@@ -25,8 +21,6 @@ TradeLens는 BitMEX OpenAPI를 이용해 주문장(Order Book) 데이터와 최�
 - **에러 처리 및 알림**
   - 에러 메시지 및 재시도 가능
 
----
-
 ## 기술 스택
 
 - 언어: Swift 6.0
@@ -35,8 +29,6 @@ TradeLens는 BitMEX OpenAPI를 이용해 주문장(Order Book) 데이터와 최�
 - 아키텍처: Micro-Modular + Clean Architecture + MVVM
 - 모듈화: SPM 모듈화
 - 테스트: XCTest
-
----
 
 ## 추가 정보
 
